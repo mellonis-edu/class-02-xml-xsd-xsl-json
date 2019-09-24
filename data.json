@@ -1,0 +1,15 @@
+{
+    "teacher": "Ruslan",
+    "studentList": [
+        {
+            "id": 1,
+            "firstName": "Руслан",
+            "lastName": "Иванов"
+        },
+        {
+            "id": 2,
+            "firstName": "Людмила",
+            "lastName": "Петрова"
+        }
+    ]
+}
